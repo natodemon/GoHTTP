@@ -6,6 +6,8 @@ This is an http server written in Golang as a component of another project, plea
 
 ## Usage
 
+Please clone this repository and run one of the following commands:
+
     go run httpserver.go [-p=port]
     ./httpserver [-p=port]
 
