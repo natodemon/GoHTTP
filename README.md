@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This is a very simple http server written in Golang as a component of another project, please see [natodemon/GoBench/README.md](https://github.com/natodemon/GoBench). It simply serves an html index file placed in the *web* directory.
+This is an http server written in Golang as a component of another project, please see [natodemon/GoBench/README.md](https://github.com/natodemon/GoBench) for more details. The program simply serves an html index file placed in the *web* directory.
 
 ## Usage
 
