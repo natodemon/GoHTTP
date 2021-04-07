@@ -6,7 +6,7 @@ This is a very simple http server written in Golang as a component of another pr
 
 ## Usage
 
-    go run httpserver.go [-p=_port_]
-    ./httpserver [-p=_port_]
+    go run httpserver.go [-p=port]
+    ./httpserver [-p=port]
 
 If no port is provided, the default is 8080
